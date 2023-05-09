@@ -1,4 +1,4 @@
-#Alerta de somnolencia y bostezo
+# Alerta de somnolencia y bostezo
 Este proyecto consiste en una aplicación que utiliza una cámara web para detectar si el usuario está somnoliento o bostezando mientras trabaja en su ordenador. Si detecta alguno de estos síntomas, la aplicación alerta al usuario para que tome un descanso y se despeje antes de continuar trabajando.
 
 #Requisitos previos
